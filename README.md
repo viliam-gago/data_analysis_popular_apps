@@ -11,7 +11,7 @@ Main purpose of creating such analysis was to get better feeling of data munging
 1) Data cleaning and exploration - checking missing values, reformating table entries, etc.
 2) Filtering data based on required conditions
 3) Finding categories containing the most apps
-4) Explore app genres by number of installs of particlar apps
+4) Explored app genres by number of installs of particlar apps
 
 
 **Data Used:**
