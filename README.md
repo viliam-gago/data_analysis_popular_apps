@@ -24,6 +24,6 @@ Both dataset can be found on [Kaggle](https://www.kaggle.com/notebooks). Data is
 
 **Main Notebook:**
 
-[Analysis](https://github.com/viliam-gago/data_analysis_popular_apps/blob/master/data_analysis.ipynb)
+[Analysis]()
 
 
